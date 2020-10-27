@@ -1,0 +1,33 @@
+{
+  "name": "@chatr/angular",
+  "version": "1.0.0",
+  "description": "A Complex Chat UI Design Framework for Angular",
+  "main": "public-api.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "chatr",
+    "chat",
+    "ui",
+    "library"
+  ],
+  "author": "Sagnik Modak",
+  "license": "MIT",
+  "dependencies": {
+    "@chatr/ng-input": "0.0.1",
+    "@chatr/ng-message": "0.0.1",
+    "@chatr/ng-message-data": "0.0.1",
+    "@fortawesome/angular-fontawesome": "^0.7.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-regular-svg-icons": "^5.15.1",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "filepond": "^4.21.1",
+    "filepond-plugin-file-validate-type": "^1.2.5",
+    "ngx-color": "^6.0.4",
+    "ngx-filepond": "^5.0.1",
+    "time-ago-pipe": "^1.3.2",
+    "tslib": "^2.0.3"
+  }
+}
