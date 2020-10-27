@@ -14,4 +14,4 @@ npm install --save @chatr/angular
 
 # Documentation
 
-You can find an extensive documentation on the GitHub repository - https://github.com/mind-matrix/chatr-angular/docs
+You can find an extensive documentation on the GitHub repository - https://github.com/mind-matrix/chatr-angular/tree/main/docs
